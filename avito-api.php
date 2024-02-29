@@ -1,5 +1,5 @@
 <?
-header("Content-Type: application/json; charset=UTF-8");
+header("Content-Type: application/json");
 
 $array = array('first'=>$_GET['first'], 'second'=>$_GET['second']);
 
